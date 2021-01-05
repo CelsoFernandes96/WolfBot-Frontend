@@ -5,7 +5,7 @@
   "homepage": "https://www.wolfbot.com.br",
   "dependencies": {
     "@material-ui/core": "^3.9.3",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "chart.js": "2.7.3",
     "classnames": "2.2.6",
     "history": "4.7.2",
